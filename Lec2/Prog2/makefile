@@ -1,2 +1,2 @@
 all:
-	gcc prog.c -o prog.o -lm
+	gcc prog.c -o prog -lm
